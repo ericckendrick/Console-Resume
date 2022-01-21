@@ -8,7 +8,7 @@
 
 - Your resume should display the following information:
 
-\*Your name
+- Your name
 
 - Your career/field
 
